@@ -1,0 +1,501 @@
+id_registro,fecha,hora,id_empleado,nombre_empleado,cargo,departamento,sucursal_asignada,ip_acceso,archivo_accedido,accion_realizada,dispositivo
+912562c6,2024-03-01,18:17:15,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.36,Lista_Proveedores.xlsx,Creación,Laptop Empresa
+a48d75c4,2024-03-19,13:02:01,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.56,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+a040df82,2024-03-07,18:41:44,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.57,Diseño_Interfaz.sketch,Eliminación,PC Escritorio
+eac25bbf,2024-03-25,19:10:44,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.88,Cronograma_Desarrollo.xlsx,Modificación,PC Escritorio
+aab3f3e0,2024-03-04,08:24:06,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.217,Reporte_Pruebas.pdf,Eliminación,PC Escritorio
+5f6af30e,2024-03-24,14:34:07,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.21,Lista_Proveedores.xlsx,Descarga,Laptop Empresa
+4c978260,2024-03-29,20:23:36,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.181,Lista_Proveedores.xlsx,Lectura,PC Escritorio
+f1e2e23c,2024-03-03,20:14:55,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.98,Cronograma_Desarrollo.xlsx,Copia,PC Escritorio
+3f7e3533,2024-03-06,12:22:13,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.180,Especificaciones_Técnicas.docx,Eliminación,PC Escritorio
+5ebd26f9,2024-03-24,10:10:29,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.70,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+b9d15fb0,2024-03-08,20:02:51,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.103,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+a3057b64,2024-03-29,18:20:13,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.102,Diseño_Interfaz.sketch,Modificación,PC Escritorio
+312bf1eb,2024-03-24,15:34:16,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.230,Manual_Usuario.pdf,Copia,PC Escritorio
+19335963,2024-03-17,14:05:48,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.221,Especificaciones_Técnicas.docx,Modificación,PC Escritorio
+7ca14ae7,2024-03-20,08:24:24,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.136,Cronograma_Desarrollo.xlsx,Eliminación,Laptop Empresa
+b65967f4,2024-03-22,18:07:43,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.197,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+0bf53b3f,2024-03-15,07:46:56,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.249,Lista_Proveedores.xlsx,Visualización,PC Escritorio
+07eb187c,2024-03-28,17:19:53,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.40,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+9bb92f5a,2024-03-30,07:38:20,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.5,Especificaciones_Técnicas.docx,Descarga,Laptop Empresa
+34eca359,2024-03-08,07:15:56,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.22,Diseño_Interfaz.sketch,Visualización,PC Escritorio
+464c7b42,2024-03-25,09:08:42,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.243,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+2987d476,2024-03-14,10:59:34,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.183,Cronograma_Desarrollo.xlsx,Copia,Laptop Empresa
+5e42e6b1,2024-03-15,21:33:28,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.64,Presupuesto_Proyecto.xlsx,Lectura,PC Escritorio
+1041ed7b,2024-03-18,10:37:14,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.19,Presupuesto_Proyecto.xlsx,Modificación,Laptop Empresa
+46f567ef,2024-03-03,15:15:17,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.55,Lista_Proveedores.xlsx,Modificación,Laptop Empresa
+1d5d5337,2024-03-19,14:15:50,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.207,Documentación_API.md,Modificación,PC Escritorio
+abec2a51,2024-03-12,13:26:29,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.173,Especificaciones_Técnicas.docx,Lectura,PC Escritorio
+67b3ccd8,2024-03-26,20:06:15,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.49,Lista_Proveedores.xlsx,Copia,PC Escritorio
+e5d481c3,2024-03-09,14:15:55,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.114,Lista_Proveedores.xlsx,Lectura,PC Escritorio
+b12d3654,2024-03-27,07:05:59,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.43,Documentación_API.md,Copia,PC Escritorio
+f30ccb60,2024-03-29,07:10:24,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.253,Documentación_API.md,Descarga,Laptop Empresa
+2733952c,2024-03-10,13:44:46,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.40,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+8c74144a,2024-03-19,18:34:03,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.15,Documentación_API.md,Eliminación,PC Escritorio
+e45852b1,2024-03-06,07:32:05,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.18,Manual_Usuario.pdf,Lectura,PC Escritorio
+47c93454,2024-03-13,08:56:36,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.149,Manual_Usuario.pdf,Lectura,PC Escritorio
+8806b229,2024-03-22,16:36:33,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.240,Cronograma_Desarrollo.xlsx,Modificación,PC Escritorio
+245a86f0,2024-03-08,11:25:08,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.118,Reporte_Pruebas.pdf,Visualización,Laptop Empresa
+aa9f7111,2024-03-15,16:36:06,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.138,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+8ea11a0b,2024-03-29,08:56:15,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.73,Código_Fuente_Prototipo.zip,Copia,Laptop Empresa
+065f0eae,2024-03-20,19:41:33,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.171,Lista_Proveedores.xlsx,Descarga,Laptop Empresa
+83274ea6,2024-03-31,21:08:16,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.228,Diseño_Interfaz.sketch,Creación,PC Escritorio
+bdfeb83d,2024-03-20,10:45:21,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.176,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+3e6f1bab,2024-03-03,17:27:53,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.12,Manual_Usuario.pdf,Descarga,PC Escritorio
+f45f5b82,2024-03-06,18:28:35,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.144,Presupuesto_Proyecto.xlsx,Lectura,Laptop Empresa
+47b4bc3f,2024-03-18,07:53:23,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.111,Código_Fuente_Prototipo.zip,Lectura,PC Escritorio
+41bd48ba,2024-03-29,12:13:43,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.171,Manual_Usuario.pdf,Descarga,PC Escritorio
+796c099b,2024-03-20,18:09:59,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.222,Código_Fuente_Prototipo.zip,Visualización,Laptop Empresa
+9958131a,2024-03-01,09:47:59,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.201,Documentación_API.md,Visualización,PC Escritorio
+66c76235,2024-03-09,09:50:44,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.98,Documentación_API.md,Visualización,PC Escritorio
+10f18e46,2024-03-12,11:52:50,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.58,Cronograma_Desarrollo.xlsx,Creación,PC Escritorio
+11a2fb7a,2024-03-28,08:49:17,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.165,Lista_Proveedores.xlsx,Copia,PC Escritorio
+a3ebd5da,2024-03-11,07:07:56,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.46,Manual_Usuario.pdf,Descarga,PC Escritorio
+314f4a0e,2024-03-14,12:46:50,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.112,Manual_Usuario.pdf,Eliminación,PC Escritorio
+e3ad3b5f,2024-03-07,11:02:45,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.1,Lista_Proveedores.xlsx,Visualización,PC Escritorio
+9ceb4314,2024-03-12,13:04:42,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.160,Reporte_Pruebas.pdf,Creación,Laptop Empresa
+88b5ced4,2024-03-17,11:42:26,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.104,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+483cd7e4,2024-03-22,13:43:47,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.158,Manual_Usuario.pdf,Descarga,PC Escritorio
+8ceb4800,2024-03-10,11:13:27,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.120,Diseño_Interfaz.sketch,Copia,PC Escritorio
+0f59e3c0,2024-03-16,19:57:50,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.169,Especificaciones_Técnicas.docx,Descarga,PC Escritorio
+4019ca23,2024-03-11,08:52:48,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.173,Cronograma_Desarrollo.xlsx,Modificación,Laptop Empresa
+77ee8da6,2024-03-01,07:15:30,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.117,Documentación_API.md,Creación,PC Escritorio
+e730dfaf,2024-03-16,13:15:09,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.229,Especificaciones_Técnicas.docx,Visualización,PC Escritorio
+2dd44fcc,2024-03-26,18:33:29,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.143,Presupuesto_Proyecto.xlsx,Visualización,PC Escritorio
+a91b0e56,2024-03-26,14:42:33,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.244,Diseño_Interfaz.sketch,Eliminación,Laptop Empresa
+f1c7b8ee,2024-03-14,20:58:35,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.230,Código_Fuente_Prototipo.zip,Creación,Laptop Empresa
+080a02b4,2024-03-09,19:15:53,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.197,Lista_Proveedores.xlsx,Copia,PC Escritorio
+444cd67b,2024-03-15,08:45:18,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.70,Reporte_Pruebas.pdf,Descarga,Laptop Empresa
+d9d3750b,2024-03-05,09:14:24,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.181,Presupuesto_Proyecto.xlsx,Lectura,PC Escritorio
+1c7e98fe,2024-03-18,14:26:03,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.214,Documentación_API.md,Copia,Laptop Empresa
+d745285b,2024-03-31,18:01:54,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.123,Reporte_Pruebas.pdf,Descarga,Laptop Empresa
+7bf9cdb5,2024-03-18,18:47:34,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.125,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+16b52d4d,2024-03-13,12:42:43,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.186,Documentación_API.md,Visualización,Laptop Empresa
+f58e390e,2024-03-18,07:58:25,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.22,Documentación_API.md,Modificación,Laptop Empresa
+e92a7609,2024-03-02,11:24:20,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.117,Reporte_Pruebas.pdf,Descarga,Laptop Empresa
+16adea9d,2024-03-09,19:53:26,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.214,Especificaciones_Técnicas.docx,Copia,PC Escritorio
+fcdf1c3f,2024-03-02,12:14:41,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.200,Plano_Dispositivo_X23.pdf,Visualización,PC Escritorio
+a55b06c6,2024-03-07,20:01:39,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.62,Lista_Proveedores.xlsx,Copia,PC Escritorio
+9ba563e9,2024-03-15,18:16:49,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.43,Manual_Usuario.pdf,Eliminación,Laptop Empresa
+de890387,2024-03-25,20:10:19,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.149,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+c3185225,2024-03-13,18:12:04,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.27,Cronograma_Desarrollo.xlsx,Visualización,PC Escritorio
+63ffb9c4,2024-03-26,16:50:02,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.137,Documentación_API.md,Creación,PC Escritorio
+2ce39ada,2024-03-21,12:00:54,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.211,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+168cc1bf,2024-03-21,21:53:29,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.112,Código_Fuente_Prototipo.zip,Creación,PC Escritorio
+56ac40fa,2024-03-20,19:58:34,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.120,Documentación_API.md,Visualización,Laptop Empresa
+10d550ed,2024-03-11,20:15:53,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.72,Diseño_Interfaz.sketch,Modificación,Laptop Empresa
+2d3a1863,2024-03-20,17:24:21,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.127,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+79c1ce8b,2024-03-26,11:21:17,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.143,Plano_Dispositivo_X23.pdf,Eliminación,Laptop Empresa
+b10f43d2,2024-03-08,18:26:31,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.177,Diseño_Interfaz.sketch,Creación,Laptop Empresa
+46548dfc,2024-03-26,07:05:18,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.104,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+3bea0a95,2024-03-16,15:33:22,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.191,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+14eaef67,2024-03-09,11:16:14,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.185,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+d40cc866,2024-03-31,19:44:11,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.56,Diseño_Interfaz.sketch,Descarga,Laptop Empresa
+2f9ab69e,2024-03-20,11:06:53,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.76,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+702178c6,2024-03-23,15:08:17,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.250,Reporte_Pruebas.pdf,Eliminación,PC Escritorio
+55698303,2024-03-21,20:48:31,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.224,Plano_Dispositivo_X23.pdf,Eliminación,PC Escritorio
+b265d599,2024-03-15,12:11:03,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.241,Diseño_Interfaz.sketch,Lectura,Laptop Empresa
+1055f27b,2024-03-16,08:36:40,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.39,Código_Fuente_Prototipo.zip,Visualización,PC Escritorio
+65399156,2024-03-03,10:07:35,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.156,Manual_Usuario.pdf,Visualización,PC Escritorio
+8aadcb5f,2024-03-13,14:58:28,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.221,Manual_Usuario.pdf,Copia,PC Escritorio
+fe6ab6d5,2024-03-02,16:47:06,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.161,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+3b57c7ad,2024-03-08,09:35:04,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.1,Documentación_API.md,Copia,PC Escritorio
+b3a0d580,2024-03-10,07:14:18,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.180,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+7ed86bfc,2024-03-26,19:40:37,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.109,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+345411fc,2024-03-27,09:04:03,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.203,Cronograma_Desarrollo.xlsx,Eliminación,Laptop Empresa
+7903e5be,2024-03-30,11:28:07,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.177,Cronograma_Desarrollo.xlsx,Creación,PC Escritorio
+9c93f8a2,2024-03-17,15:31:28,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.154,Lista_Proveedores.xlsx,Copia,PC Escritorio
+391354d9,2024-03-01,08:14:43,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.196,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+08be29a7,2024-03-16,15:41:28,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.47,Manual_Usuario.pdf,Copia,PC Escritorio
+3f93be9d,2024-03-03,14:22:26,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.83,Cronograma_Desarrollo.xlsx,Visualización,PC Escritorio
+9bccc948,2024-03-10,17:25:52,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.117,Reporte_Pruebas.pdf,Descarga,PC Escritorio
+6facfef3,2024-03-28,15:52:00,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.106,Plano_Dispositivo_X23.pdf,Modificación,PC Escritorio
+9aa83605,2024-03-25,14:40:28,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.53,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+0db8e532,2024-03-15,21:44:31,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.8,Manual_Usuario.pdf,Visualización,PC Escritorio
+046b747d,2024-03-10,15:00:35,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.24,Presupuesto_Proyecto.xlsx,Visualización,Laptop Empresa
+9e74a1be,2024-03-31,08:41:53,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.128,Cronograma_Desarrollo.xlsx,Eliminación,Laptop Empresa
+2101abcc,2024-03-27,14:30:15,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.142,Código_Fuente_Prototipo.zip,Copia,PC Escritorio
+3e0a6eef,2024-03-17,18:56:08,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.71,Documentación_API.md,Descarga,Laptop Empresa
+e220f8ce,2024-03-09,20:00:18,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.215,Manual_Usuario.pdf,Eliminación,Laptop Empresa
+92b6b592,2024-03-28,09:28:34,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.89,Reporte_Pruebas.pdf,Eliminación,Laptop Empresa
+9a0ea5cc,2024-03-15,21:20:55,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.252,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+d4f3d086,2024-03-02,12:47:30,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.99,Código_Fuente_Prototipo.zip,Copia,Laptop Empresa
+07f073de,2024-03-17,16:21:55,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.224,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+6b67afa7,2024-03-01,18:09:26,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.20,Diseño_Interfaz.sketch,Visualización,Laptop Empresa
+9553ff29,2024-03-20,18:25:41,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.219,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+26fb7d03,2024-03-13,12:40:45,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.224,Lista_Proveedores.xlsx,Lectura,PC Escritorio
+df6e1eec,2024-03-21,17:58:18,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.192,Presupuesto_Proyecto.xlsx,Copia,Laptop Empresa
+fb2bb6d4,2024-03-15,09:44:19,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.12,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+f3b5d7d2,2024-03-12,13:09:15,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.145,Código_Fuente_Prototipo.zip,Modificación,PC Escritorio
+2bdba005,2024-03-28,13:39:43,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.128,Manual_Usuario.pdf,Modificación,PC Escritorio
+25e82a05,2024-03-15,11:42:00,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.231,Cronograma_Desarrollo.xlsx,Creación,PC Escritorio
+bcfabf4f,2024-03-15,12:37:19,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.177,Cronograma_Desarrollo.xlsx,Copia,Laptop Empresa
+4b6e5adb,2024-03-13,20:30:06,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.98,Manual_Usuario.pdf,Descarga,PC Escritorio
+0ca057df,2024-03-01,20:42:25,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.3,Manual_Usuario.pdf,Visualización,PC Escritorio
+efc0c677,2024-03-30,16:47:31,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.199,Presupuesto_Proyecto.xlsx,Eliminación,Laptop Empresa
+5d8a2775,2024-03-21,10:39:16,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.161,Lista_Proveedores.xlsx,Creación,PC Escritorio
+6f37ef84,2024-03-02,16:23:46,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.24,Cronograma_Desarrollo.xlsx,Descarga,Laptop Empresa
+e908860f,2024-03-07,09:50:34,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.136,Lista_Proveedores.xlsx,Descarga,Laptop Empresa
+76e2dd86,2024-03-30,20:30:51,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.192,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+ca00d72f,2024-03-05,19:14:55,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.248,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+19a6f9e7,2024-03-01,11:34:07,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.95,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+d348e9d3,2024-03-04,17:14:30,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.159,Lista_Proveedores.xlsx,Descarga,Laptop Empresa
+1f09449d,2024-03-21,08:40:52,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.233,Cronograma_Desarrollo.xlsx,Creación,PC Escritorio
+a6451d49,2024-03-02,07:19:31,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.25,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+343a12ea,2024-03-12,17:47:44,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.151,Lista_Proveedores.xlsx,Copia,PC Escritorio
+ac4c6b0a,2024-03-20,13:17:02,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.56,Diseño_Interfaz.sketch,Copia,Laptop Empresa
+016d47ba,2024-03-04,17:23:34,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.16,Documentación_API.md,Descarga,PC Escritorio
+0d3992e6,2024-03-31,20:52:29,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.170,Presupuesto_Proyecto.xlsx,Creación,PC Escritorio
+8365e91c,2024-03-02,19:21:15,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.202,Manual_Usuario.pdf,Modificación,PC Escritorio
+6a033dd0,2024-03-07,16:13:52,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.85,Código_Fuente_Prototipo.zip,Visualización,Laptop Empresa
+2a0ce2f5,2024-03-09,20:09:08,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.205,Lista_Proveedores.xlsx,Lectura,Laptop Empresa
+2b8007b6,2024-03-01,12:50:50,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.151,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+be8ee266,2024-03-05,18:26:33,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.191,Documentación_API.md,Copia,Laptop Empresa
+e198a6ed,2024-03-19,08:28:32,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.243,Manual_Usuario.pdf,Lectura,Laptop Empresa
+12e7a8cd,2024-03-10,14:41:01,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.123,Documentación_API.md,Copia,PC Escritorio
+843f5300,2024-03-23,21:28:04,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.83,Manual_Usuario.pdf,Modificación,PC Escritorio
+cda27a5b,2024-03-20,17:37:35,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.98,Manual_Usuario.pdf,Eliminación,PC Escritorio
+043ac30c,2024-03-20,13:06:50,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.219,Lista_Proveedores.xlsx,Creación,Laptop Empresa
+fc9d863c,2024-03-15,21:14:26,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.212,Diseño_Interfaz.sketch,Copia,PC Escritorio
+f2b50d4e,2024-03-11,13:20:42,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.96,Documentación_API.md,Creación,PC Escritorio
+514b155b,2024-03-03,13:06:47,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.208,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+e6826117,2024-03-18,12:42:07,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.91,Documentación_API.md,Visualización,Laptop Empresa
+4d5bf04d,2024-03-31,11:38:19,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.27,Manual_Usuario.pdf,Eliminación,PC Escritorio
+7c75303b,2024-03-08,20:06:22,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.30,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+53974e7c,2024-03-28,15:49:52,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.156,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+093389ea,2024-03-30,12:22:00,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.223,Lista_Proveedores.xlsx,Eliminación,PC Escritorio
+85469a67,2024-03-24,17:01:05,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.97,Documentación_API.md,Copia,PC Escritorio
+cb891690,2024-03-10,18:20:49,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.227,Plano_Dispositivo_X23.pdf,Modificación,PC Escritorio
+df949180,2024-03-02,17:05:17,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.170,Documentación_API.md,Copia,PC Escritorio
+2969e3e9,2024-03-09,10:48:32,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.89,Documentación_API.md,Lectura,PC Escritorio
+3f9a0a3f,2024-03-16,15:42:19,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.57,Documentación_API.md,Eliminación,PC Escritorio
+a5a4fc5a,2024-03-10,10:49:08,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.75,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+8a1c79e7,2024-03-06,09:24:34,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.129,Lista_Proveedores.xlsx,Visualización,PC Escritorio
+a9f9f3f4,2024-03-03,13:55:47,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.112,Plano_Dispositivo_X23.pdf,Copia,Laptop Empresa
+6437d85c,2024-03-19,13:36:25,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.75,Especificaciones_Técnicas.docx,Copia,PC Escritorio
+98ea2dff,2024-03-06,19:39:29,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.23,Documentación_API.md,Visualización,PC Escritorio
+bb585367,2024-03-19,13:33:05,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.223,Cronograma_Desarrollo.xlsx,Creación,PC Escritorio
+7c949fee,2024-03-25,09:04:32,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.136,Lista_Proveedores.xlsx,Modificación,Laptop Empresa
+17dbe573,2024-03-12,18:52:41,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.61,Especificaciones_Técnicas.docx,Modificación,PC Escritorio
+79178090,2024-03-20,09:48:48,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.46,Diseño_Interfaz.sketch,Copia,Laptop Empresa
+36aabfe6,2024-03-15,17:59:56,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.222,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+3750638e,2024-03-15,17:19:50,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.152,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+b2bb5102,2024-03-15,07:03:23,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.20,Diseño_Interfaz.sketch,Eliminación,PC Escritorio
+bc2f8645,2024-03-19,15:50:47,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.116,Manual_Usuario.pdf,Creación,PC Escritorio
+9c18cf36,2024-03-16,15:09:03,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.27,Reporte_Pruebas.pdf,Creación,PC Escritorio
+3cb9d9cc,2024-03-02,10:45:28,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.135,Lista_Proveedores.xlsx,Eliminación,PC Escritorio
+7ccc0b32,2024-03-30,11:24:26,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.174,Manual_Usuario.pdf,Lectura,Laptop Empresa
+41402e39,2024-03-03,12:06:35,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.73,Cronograma_Desarrollo.xlsx,Creación,Laptop Empresa
+955deb72,2024-03-28,09:21:05,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.235,Reporte_Pruebas.pdf,Descarga,Laptop Empresa
+44cff82b,2024-03-05,16:45:05,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.144,Documentación_API.md,Creación,Laptop Empresa
+be664f51,2024-03-22,18:53:47,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.166,Documentación_API.md,Eliminación,PC Escritorio
+8aea5ca6,2024-03-10,09:13:21,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.50,Presupuesto_Proyecto.xlsx,Modificación,PC Escritorio
+46f0e3f8,2024-03-28,19:06:32,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.170,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+75c9b7d5,2024-03-13,09:10:11,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.185,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+35c61e89,2024-03-15,16:18:48,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.60,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+a28d134e,2024-03-29,20:12:23,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.119,Cronograma_Desarrollo.xlsx,Visualización,PC Escritorio
+73ffa53e,2024-03-14,09:52:12,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.224,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+db767b12,2024-03-18,21:06:45,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.73,Especificaciones_Técnicas.docx,Visualización,PC Escritorio
+f8034d7a,2024-03-29,15:09:53,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.24,Presupuesto_Proyecto.xlsx,Visualización,PC Escritorio
+4ff1362d,2024-03-30,07:26:03,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.129,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+12547bfa,2024-03-12,10:01:20,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.215,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+5bee37ae,2024-03-10,21:53:30,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.195,Diseño_Interfaz.sketch,Copia,PC Escritorio
+0e21380b,2024-03-01,11:13:53,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.141,Manual_Usuario.pdf,Eliminación,PC Escritorio
+e7044129,2024-03-08,11:07:03,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.108,Manual_Usuario.pdf,Copia,PC Escritorio
+5deb036c,2024-03-20,15:01:40,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.184,Documentación_API.md,Descarga,PC Escritorio
+81460709,2024-03-08,16:26:11,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.135,Reporte_Pruebas.pdf,Lectura,Laptop Empresa
+4ff58906,2024-03-17,19:32:35,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.100,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+ebedf442,2024-03-09,18:01:22,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.89,Presupuesto_Proyecto.xlsx,Creación,PC Escritorio
+85223b1e,2024-03-25,16:47:48,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.35,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+688e54dc,2024-03-27,19:43:29,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.162,Código_Fuente_Prototipo.zip,Visualización,PC Escritorio
+054efdbd,2024-03-02,11:12:02,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.227,Reporte_Pruebas.pdf,Descarga,PC Escritorio
+05073ade,2024-03-16,11:02:48,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.74,Reporte_Pruebas.pdf,Visualización,Laptop Empresa
+ab40c454,2024-03-09,08:51:23,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.228,Documentación_API.md,Creación,PC Escritorio
+1456de05,2024-03-11,09:31:44,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.95,Lista_Proveedores.xlsx,Descarga,Laptop Empresa
+45ab977e,2024-03-03,13:38:52,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.140,Cronograma_Desarrollo.xlsx,Descarga,PC Escritorio
+3841c2d0,2024-03-22,11:19:28,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.43,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+0de1d201,2024-03-20,13:17:40,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.20,Documentación_API.md,Descarga,PC Escritorio
+8fbf43af,2024-03-31,07:09:54,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.9,Código_Fuente_Prototipo.zip,Lectura,PC Escritorio
+911fa0e6,2024-03-12,13:36:02,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.174,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+4c24ce68,2024-03-19,09:33:23,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.81,Cronograma_Desarrollo.xlsx,Modificación,Laptop Empresa
+95459c3d,2024-03-24,09:31:33,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.234,Lista_Proveedores.xlsx,Lectura,PC Escritorio
+352b5ae1,2024-03-23,14:13:39,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.178,Diseño_Interfaz.sketch,Modificación,PC Escritorio
+9e230670,2024-03-15,09:57:45,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.23,Reporte_Pruebas.pdf,Creación,PC Escritorio
+c7daa478,2024-03-18,15:18:57,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.218,Lista_Proveedores.xlsx,Creación,Laptop Empresa
+9448ff4c,2024-03-26,12:32:14,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.253,Presupuesto_Proyecto.xlsx,Visualización,PC Escritorio
+13a6ff01,2024-03-01,12:35:36,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.120,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+8832821a,2024-03-03,11:25:45,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.135,Documentación_API.md,Visualización,PC Escritorio
+9ae2453f,2024-03-03,09:20:41,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.116,Diseño_Interfaz.sketch,Creación,PC Escritorio
+2084c027,2024-03-29,20:49:35,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.197,Código_Fuente_Prototipo.zip,Copia,PC Escritorio
+28071ed5,2024-03-27,08:33:09,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.43,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+94f4ab7b,2024-03-29,11:54:05,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.51,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+e7d9d65f,2024-03-20,15:05:32,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.152,Manual_Usuario.pdf,Modificación,PC Escritorio
+b08ef620,2024-03-24,21:38:21,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.212,Presupuesto_Proyecto.xlsx,Lectura,Laptop Empresa
+a2f481d9,2024-03-09,17:13:49,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.159,Lista_Proveedores.xlsx,Copia,PC Escritorio
+73958c64,2024-03-16,10:51:51,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.77,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+68f1f5f0,2024-03-15,13:30:29,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.88,Manual_Usuario.pdf,Modificación,PC Escritorio
+b118a1f9,2024-03-24,20:22:25,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.195,Reporte_Pruebas.pdf,Eliminación,PC Escritorio
+30fc2a89,2024-03-08,14:07:17,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.64,Código_Fuente_Prototipo.zip,Lectura,PC Escritorio
+5adb6e5a,2024-03-28,16:26:15,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.209,Reporte_Pruebas.pdf,Eliminación,Laptop Empresa
+9e8173b5,2024-03-25,09:31:32,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.128,Cronograma_Desarrollo.xlsx,Copia,PC Escritorio
+060c0f44,2024-03-17,14:15:13,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.13,Plano_Dispositivo_X23.pdf,Descarga,PC Escritorio
+74b8334d,2024-03-10,15:00:54,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.111,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+c2ee6767,2024-03-12,07:25:03,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.93,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+7e2d466d,2024-03-15,19:35:17,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.33,Especificaciones_Técnicas.docx,Copia,PC Escritorio
+54f2c7fc,2024-03-18,12:48:09,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.155,Lista_Proveedores.xlsx,Copia,PC Escritorio
+686469a2,2024-03-02,09:45:21,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.133,Diseño_Interfaz.sketch,Modificación,PC Escritorio
+365bbbb3,2024-03-05,12:59:39,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.42,Documentación_API.md,Eliminación,Laptop Empresa
+e247d80a,2024-03-19,12:32:53,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.182,Manual_Usuario.pdf,Descarga,PC Escritorio
+b435d16b,2024-03-12,12:43:07,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.150,Cronograma_Desarrollo.xlsx,Visualización,Laptop Empresa
+c18128ec,2024-03-20,14:16:41,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.185,Documentación_API.md,Eliminación,PC Escritorio
+555ac5ce,2024-03-25,20:24:09,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.9,Manual_Usuario.pdf,Creación,PC Escritorio
+be09e25b,2024-03-15,12:26:09,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.177,Presupuesto_Proyecto.xlsx,Copia,PC Escritorio
+f0758ab4,2024-03-30,14:55:54,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.181,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+fa3fd4a1,2024-03-17,13:20:11,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.234,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+e0af4861,2024-03-20,14:12:15,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.143,Cronograma_Desarrollo.xlsx,Modificación,Laptop Empresa
+1162ad1e,2024-03-25,11:45:13,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.82,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+1a0fc23f,2024-03-10,08:36:43,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.230,Documentación_API.md,Visualización,PC Escritorio
+1f3eaeb0,2024-03-10,07:18:45,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.89,Diseño_Interfaz.sketch,Creación,PC Escritorio
+61947e47,2024-03-07,10:52:34,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.239,Lista_Proveedores.xlsx,Creación,PC Escritorio
+1d2b7e37,2024-03-20,18:37:15,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.13,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+99cc4be5,2024-03-04,13:21:45,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.26,Diseño_Interfaz.sketch,Lectura,Laptop Empresa
+4f1ae67d,2024-03-14,17:59:56,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.123,Presupuesto_Proyecto.xlsx,Visualización,Laptop Empresa
+9678ae7b,2024-03-10,17:03:58,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.167,Manual_Usuario.pdf,Modificación,PC Escritorio
+41b69400,2024-03-30,21:11:26,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.240,Documentación_API.md,Visualización,Laptop Empresa
+1d7425b5,2024-03-30,18:55:59,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.225,Plano_Dispositivo_X23.pdf,Lectura,PC Escritorio
+e4938451,2024-03-04,21:21:18,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.254,Lista_Proveedores.xlsx,Eliminación,PC Escritorio
+55647e2a,2024-03-28,15:29:17,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.208,Especificaciones_Técnicas.docx,Descarga,PC Escritorio
+a27d5f6d,2024-03-21,11:45:11,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.189,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+1bff86f1,2024-03-06,16:54:40,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.212,Documentación_API.md,Eliminación,PC Escritorio
+8cc6f05a,2024-03-22,08:11:08,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.83,Presupuesto_Proyecto.xlsx,Lectura,PC Escritorio
+7d211c73,2024-03-15,19:17:21,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.150,Manual_Usuario.pdf,Lectura,PC Escritorio
+46719a06,2024-03-23,10:03:42,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.120,Cronograma_Desarrollo.xlsx,Modificación,PC Escritorio
+b4b00a0c,2024-03-30,21:56:45,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.177,Especificaciones_Técnicas.docx,Creación,Laptop Empresa
+de73582c,2024-03-12,16:14:14,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.123,Lista_Proveedores.xlsx,Copia,Laptop Empresa
+5c0bd8ea,2024-03-14,18:35:58,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.194,Lista_Proveedores.xlsx,Visualización,PC Escritorio
+d8612c6e,2024-03-25,10:43:48,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.135,Diseño_Interfaz.sketch,Eliminación,Laptop Empresa
+0404b694,2024-03-30,16:07:03,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.147,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+a0b37286,2024-03-15,08:43:13,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.24,Lista_Proveedores.xlsx,Copia,Laptop Empresa
+6bb7031f,2024-03-05,15:26:29,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.144,Diseño_Interfaz.sketch,Creación,Laptop Empresa
+2628a9ce,2024-03-13,11:52:00,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.149,Documentación_API.md,Lectura,PC Escritorio
+05b17160,2024-03-18,07:59:57,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.253,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+b60cc4a3,2024-03-25,09:49:41,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.96,Documentación_API.md,Copia,Laptop Empresa
+c196d26e,2024-03-13,08:43:42,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.168,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+5c241cb6,2024-03-13,15:08:46,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.214,Plano_Dispositivo_X23.pdf,Visualización,PC Escritorio
+6e9d0dd4,2024-03-15,17:46:34,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.137,Documentación_API.md,Visualización,PC Escritorio
+5799ec3a,2024-03-12,09:17:12,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.9,Documentación_API.md,Eliminación,Laptop Empresa
+38d79a34,2024-03-08,10:04:06,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.115,Manual_Usuario.pdf,Creación,Laptop Empresa
+d6768b6b,2024-03-08,18:02:25,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.60,Lista_Proveedores.xlsx,Modificación,Laptop Empresa
+525df6ea,2024-03-05,15:18:14,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.148,Manual_Usuario.pdf,Visualización,PC Escritorio
+9239dbb1,2024-03-08,11:56:09,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.106,Cronograma_Desarrollo.xlsx,Descarga,PC Escritorio
+3041221a,2024-03-29,18:58:11,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.143,Diseño_Interfaz.sketch,Lectura,Laptop Empresa
+1b9e8a1e,2024-03-26,15:20:44,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.105,Código_Fuente_Prototipo.zip,Descarga,PC Escritorio
+c09a5768,2024-03-16,10:54:14,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.220,Código_Fuente_Prototipo.zip,Visualización,PC Escritorio
+b244f816,2024-03-18,13:26:35,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.100,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+910db702,2024-03-30,14:54:23,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.138,Presupuesto_Proyecto.xlsx,Lectura,PC Escritorio
+77d727f6,2024-03-20,07:55:04,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.206,Manual_Usuario.pdf,Creación,PC Escritorio
+6d97c3fc,2024-03-16,10:55:58,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.78,Cronograma_Desarrollo.xlsx,Modificación,Laptop Empresa
+987b59ce,2024-03-24,19:30:58,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.179,Manual_Usuario.pdf,Creación,PC Escritorio
+3d343aa2,2024-03-18,12:49:18,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.120,Lista_Proveedores.xlsx,Creación,PC Escritorio
+66891000,2024-03-12,15:56:31,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.26,Diseño_Interfaz.sketch,Visualización,Laptop Empresa
+22ce8a35,2024-03-12,12:26:02,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.190,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+943a344f,2024-03-19,18:26:18,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.51,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+5d9b8d0b,2024-03-16,15:41:43,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.66,Diseño_Interfaz.sketch,Creación,PC Escritorio
+3ea3c233,2024-03-15,09:46:50,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.44,Diseño_Interfaz.sketch,Creación,PC Escritorio
+81405a62,2024-03-21,07:33:02,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.242,Plano_Dispositivo_X23.pdf,Visualización,PC Escritorio
+51196069,2024-03-27,17:14:04,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.3,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+b9ab0493,2024-03-20,17:42:59,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.169,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+d5e9e423,2024-03-14,07:01:33,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.138,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+315ff533,2024-03-26,21:11:06,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.135,Código_Fuente_Prototipo.zip,Modificación,PC Escritorio
+516e2b94,2024-03-09,20:22:17,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.21,Reporte_Pruebas.pdf,Copia,PC Escritorio
+10571f0a,2024-03-23,10:19:43,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.168,Documentación_API.md,Lectura,PC Escritorio
+d6fce6a6,2024-03-16,07:40:00,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.22,Diseño_Interfaz.sketch,Visualización,PC Escritorio
+5675e838,2024-03-19,20:06:57,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.59,Presupuesto_Proyecto.xlsx,Visualización,PC Escritorio
+3f3fb512,2024-03-16,11:02:59,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.176,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+f3fe2093,2024-03-06,21:54:20,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.247,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+79fcc625,2024-03-30,08:19:10,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.146,Documentación_API.md,Creación,Laptop Empresa
+f41b96ef,2024-03-13,19:47:08,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.129,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+acc7abe1,2024-03-27,08:21:38,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.249,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+afec7837,2024-03-16,10:22:35,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.111,Diseño_Interfaz.sketch,Creación,PC Escritorio
+23ad4334,2024-03-25,16:18:51,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.183,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+1a69a412,2024-03-24,13:20:23,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.24,Plano_Dispositivo_X23.pdf,Descarga,PC Escritorio
+04faf09d,2024-03-04,09:05:11,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.115,Lista_Proveedores.xlsx,Eliminación,PC Escritorio
+16c48c16,2024-03-01,08:22:35,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.153,Manual_Usuario.pdf,Visualización,PC Escritorio
+b43ddc77,2024-03-01,11:26:24,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.186,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+a7a98ff3,2024-03-22,13:10:08,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.78,Cronograma_Desarrollo.xlsx,Copia,PC Escritorio
+91347e7e,2024-03-14,11:26:19,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.201,Especificaciones_Técnicas.docx,Descarga,PC Escritorio
+5b6e7e1c,2024-03-24,17:31:38,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.118,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+1eb16357,2024-03-11,20:39:24,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.113,Reporte_Pruebas.pdf,Copia,Laptop Empresa
+96257492,2024-03-05,11:20:38,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.123,Reporte_Pruebas.pdf,Modificación,Laptop Empresa
+6e53666b,2024-03-10,18:44:40,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.248,Manual_Usuario.pdf,Visualización,PC Escritorio
+5d90438c,2024-03-09,20:50:25,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.30,Manual_Usuario.pdf,Modificación,PC Escritorio
+cdf56fc1,2024-03-06,17:49:35,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.244,Diseño_Interfaz.sketch,Creación,PC Escritorio
+eb37320d,2024-03-27,18:04:52,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.173,Diseño_Interfaz.sketch,Modificación,PC Escritorio
+0634cc96,2024-03-09,17:09:45,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.203,Documentación_API.md,Lectura,PC Escritorio
+9bb4d15d,2024-03-16,16:25:34,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.140,Reporte_Pruebas.pdf,Visualización,Laptop Empresa
+869010d1,2024-03-20,17:58:05,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.197,Presupuesto_Proyecto.xlsx,Creación,PC Escritorio
+8cc26a25,2024-03-21,16:02:36,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.248,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+3ba76e76,2024-03-04,11:14:32,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.115,Reporte_Pruebas.pdf,Copia,PC Escritorio
+ded7b3c5,2024-03-23,15:09:22,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.124,Documentación_API.md,Descarga,Laptop Empresa
+f82d2562,2024-03-04,20:46:09,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.80,Reporte_Pruebas.pdf,Copia,Laptop Empresa
+a389bd7d,2024-03-16,12:30:06,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.185,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+dd366658,2024-03-26,18:07:01,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.166,Manual_Usuario.pdf,Creación,PC Escritorio
+fb783897,2024-03-17,09:35:10,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.144,Documentación_API.md,Copia,PC Escritorio
+8e8836ab,2024-03-21,09:11:40,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.102,Plano_Dispositivo_X23.pdf,Creación,PC Escritorio
+a1d9f078,2024-03-15,16:27:24,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.181,Presupuesto_Proyecto.xlsx,Modificación,PC Escritorio
+f93594ca,2024-03-19,08:51:55,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.94,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+d3d29d31,2024-03-22,20:31:33,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.153,Documentación_API.md,Eliminación,PC Escritorio
+0d846a2d,2024-03-12,12:54:29,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.209,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+36b5d04f,2024-03-11,08:15:19,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.47,Reporte_Pruebas.pdf,Creación,PC Escritorio
+415d9343,2024-03-14,16:08:36,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.109,Código_Fuente_Prototipo.zip,Copia,PC Escritorio
+46d84359,2024-03-18,09:31:18,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.48,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+01071416,2024-03-28,12:00:31,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.50,Documentación_API.md,Eliminación,PC Escritorio
+5db169ad,2024-03-14,17:31:26,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.126,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+4b8d97cb,2024-03-10,07:17:14,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.44,Diseño_Interfaz.sketch,Eliminación,Laptop Empresa
+d426be5d,2024-03-18,15:07:36,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.69,Lista_Proveedores.xlsx,Visualización,Laptop Empresa
+b0b5602d,2024-03-27,19:02:48,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.140,Presupuesto_Proyecto.xlsx,Copia,PC Escritorio
+2658fe0f,2024-03-10,20:02:28,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.90,Manual_Usuario.pdf,Copia,Laptop Empresa
+761c636b,2024-03-07,19:47:37,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.221,Manual_Usuario.pdf,Creación,PC Escritorio
+5b0c0f95,2024-03-05,19:13:52,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.207,Reporte_Pruebas.pdf,Eliminación,PC Escritorio
+56049de3,2024-03-18,09:20:45,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.75,Manual_Usuario.pdf,Descarga,Laptop Empresa
+fce40408,2024-03-29,17:52:06,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.247,Documentación_API.md,Lectura,Laptop Empresa
+242def07,2024-03-23,20:08:15,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.183,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+56817d5b,2024-03-16,09:36:40,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.161,Documentación_API.md,Copia,PC Escritorio
+1bd5afdb,2024-03-13,15:47:17,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.117,Diseño_Interfaz.sketch,Descarga,PC Escritorio
+47b4f7f5,2024-03-24,14:40:42,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.218,Diseño_Interfaz.sketch,Visualización,PC Escritorio
+56275604,2024-03-27,10:31:17,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.213,Cronograma_Desarrollo.xlsx,Descarga,PC Escritorio
+e010fbbb,2024-03-19,20:31:50,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.229,Plano_Dispositivo_X23.pdf,Lectura,PC Escritorio
+fd4e9b10,2024-03-01,08:59:54,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.113,Diseño_Interfaz.sketch,Lectura,Laptop Empresa
+f26ab27c,2024-03-07,18:58:08,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.41,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+dac554f3,2024-03-03,12:42:57,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.14,Documentación_API.md,Creación,PC Escritorio
+f69f06b7,2024-03-14,17:05:45,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.1,Presupuesto_Proyecto.xlsx,Copia,PC Escritorio
+827f4dfc,2024-03-08,15:43:28,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.3,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+efcb1da9,2024-03-23,09:30:04,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.99,Especificaciones_Técnicas.docx,Creación,Laptop Empresa
+b9749116,2024-03-11,12:56:19,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.98,Lista_Proveedores.xlsx,Creación,PC Escritorio
+3edfff6b,2024-03-19,07:39:41,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.113,Reporte_Pruebas.pdf,Creación,PC Escritorio
+0b1e6f98,2024-03-30,13:39:43,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.221,Presupuesto_Proyecto.xlsx,Lectura,Laptop Empresa
+31a73965,2024-03-25,08:37:46,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.90,Documentación_API.md,Descarga,Laptop Empresa
+57c93a8c,2024-03-09,17:05:15,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.200,Manual_Usuario.pdf,Visualización,PC Escritorio
+35c6ea10,2024-03-07,15:38:32,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.192,Documentación_API.md,Descarga,PC Escritorio
+c3394d63,2024-03-16,13:07:15,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.164,Manual_Usuario.pdf,Lectura,PC Escritorio
+ece01deb,2024-03-12,21:20:08,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.221,Manual_Usuario.pdf,Copia,PC Escritorio
+043dfa3f,2024-03-25,14:49:04,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.151,Especificaciones_Técnicas.docx,Lectura,PC Escritorio
+d8a91b0b,2024-03-30,07:50:25,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.161,Lista_Proveedores.xlsx,Visualización,PC Escritorio
+ee238f80,2024-03-03,17:34:34,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.72,Especificaciones_Técnicas.docx,Descarga,PC Escritorio
+e5eb8648,2024-03-26,09:34:20,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.151,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+d049c2d7,2024-03-02,10:05:59,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.30,Diseño_Interfaz.sketch,Eliminación,PC Escritorio
+815dfe86,2024-03-22,18:42:47,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.31,Cronograma_Desarrollo.xlsx,Creación,Laptop Empresa
+3acd49c4,2024-03-16,12:33:33,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.43,Reporte_Pruebas.pdf,Modificación,Laptop Empresa
+68702030,2024-03-24,21:07:49,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.86,Documentación_API.md,Descarga,PC Escritorio
+78b4dab3,2024-03-23,16:40:04,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.117,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+72330aa7,2024-03-06,12:10:16,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.229,Manual_Usuario.pdf,Creación,Laptop Empresa
+4856b958,2024-03-24,15:00:02,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.63,Reporte_Pruebas.pdf,Copia,PC Escritorio
+3682a64c,2024-03-06,21:54:02,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.58,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+cc10b514,2024-03-09,20:04:36,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.31,Lista_Proveedores.xlsx,Creación,Laptop Empresa
+529ddfed,2024-03-08,19:33:02,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.18,Diseño_Interfaz.sketch,Visualización,PC Escritorio
+4d73183f,2024-03-11,08:35:29,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.95,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+6ca1f962,2024-03-24,16:15:29,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.152,Diseño_Interfaz.sketch,Visualización,Laptop Empresa
+6faef324,2024-03-25,19:15:09,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.239,Documentación_API.md,Lectura,PC Escritorio
+58a5126b,2024-03-21,20:44:56,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.244,Reporte_Pruebas.pdf,Lectura,Laptop Empresa
+c3bf1922,2024-03-28,18:46:19,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.53,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+6d3a9093,2024-03-05,18:17:05,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.236,Presupuesto_Proyecto.xlsx,Visualización,PC Escritorio
+7f631b47,2024-03-15,18:05:37,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.130,Código_Fuente_Prototipo.zip,Creación,Laptop Empresa
+fe3eebef,2024-03-19,16:03:27,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.61,Cronograma_Desarrollo.xlsx,Descarga,Laptop Empresa
+b16fb9b3,2024-03-23,20:47:20,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.116,Cronograma_Desarrollo.xlsx,Modificación,PC Escritorio
+13595a6f,2024-03-05,19:49:37,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.40,Documentación_API.md,Modificación,PC Escritorio
+5d35340f,2024-03-04,15:22:49,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.116,Cronograma_Desarrollo.xlsx,Copia,PC Escritorio
+3fd82b8c,2024-03-03,09:51:43,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.212,Manual_Usuario.pdf,Lectura,PC Escritorio
+c24b5da2,2024-03-05,08:45:15,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.102,Lista_Proveedores.xlsx,Lectura,PC Escritorio
+1716002d,2024-03-27,09:01:25,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.143,Lista_Proveedores.xlsx,Modificación,PC Escritorio
+563f1c4c,2024-03-26,19:08:07,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.16,Presupuesto_Proyecto.xlsx,Modificación,PC Escritorio
+22349386,2024-03-12,17:40:41,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.150,Manual_Usuario.pdf,Descarga,Laptop Empresa
+99e83ea4,2024-03-01,08:12:57,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.208,Manual_Usuario.pdf,Lectura,Laptop Empresa
+b29f0e79,2024-03-04,07:29:03,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.237,Manual_Usuario.pdf,Copia,Laptop Empresa
+214da21b,2024-03-16,07:24:43,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.45,Reporte_Pruebas.pdf,Modificación,Laptop Empresa
+113b1c20,2024-03-09,14:56:09,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.158,Manual_Usuario.pdf,Eliminación,PC Escritorio
+2551a621,2024-03-16,13:56:35,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.16,Documentación_API.md,Descarga,PC Escritorio
+01d89312,2024-03-21,21:51:33,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.162,Lista_Proveedores.xlsx,Visualización,PC Escritorio
+beee74c9,2024-03-26,18:22:30,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.89,Manual_Usuario.pdf,Eliminación,PC Escritorio
+803b5b6a,2024-03-06,07:20:38,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.8,Cronograma_Desarrollo.xlsx,Lectura,Laptop Empresa
+630c264e,2024-03-17,12:49:37,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.250,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+9d59759e,2024-03-18,20:50:58,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.196,Presupuesto_Proyecto.xlsx,Eliminación,Laptop Empresa
+478359bd,2024-03-12,21:53:54,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.46,Presupuesto_Proyecto.xlsx,Eliminación,PC Escritorio
+33f501f1,2024-03-30,16:01:45,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.243,Manual_Usuario.pdf,Eliminación,PC Escritorio
+fdc6d9fb,2024-03-27,19:56:31,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.45,Diseño_Interfaz.sketch,Lectura,PC Escritorio
+7b8e8665,2024-03-20,10:01:33,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.1,Reporte_Pruebas.pdf,Eliminación,PC Escritorio
+4df1862c,2024-03-11,18:11:58,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.16,Plano_Dispositivo_X23.pdf,Modificación,PC Escritorio
+3a1b3b40,2024-03-25,08:54:33,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.246,Especificaciones_Técnicas.docx,Descarga,Laptop Empresa
+66b8a113,2024-03-19,08:21:19,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.35,Código_Fuente_Prototipo.zip,Creación,Laptop Empresa
+17f49ee7,2024-03-21,12:11:45,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.58,Manual_Usuario.pdf,Visualización,PC Escritorio
+4a2ef162,2024-03-24,18:18:08,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.187,Diseño_Interfaz.sketch,Creación,PC Escritorio
+5268dd60,2024-03-02,09:38:20,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.164,Manual_Usuario.pdf,Lectura,Laptop Empresa
+2953615c,2024-03-11,18:04:15,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.252,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+54786e53,2024-03-27,18:42:40,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.115,Cronograma_Desarrollo.xlsx,Descarga,PC Escritorio
+52670dc1,2024-03-12,11:50:06,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.13,Documentación_API.md,Copia,Laptop Empresa
+aa09b3a4,2024-03-29,13:31:56,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.90,Lista_Proveedores.xlsx,Copia,PC Escritorio
+7a47d3ef,2024-03-26,20:36:41,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.42,Diseño_Interfaz.sketch,Lectura,Laptop Empresa
+b4207379,2024-03-10,07:20:16,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.19,Reporte_Pruebas.pdf,Modificación,Laptop Empresa
+b37316cd,2024-03-24,08:35:57,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.87,Manual_Usuario.pdf,Eliminación,Laptop Empresa
+72356799,2024-03-14,17:10:38,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.41,Reporte_Pruebas.pdf,Lectura,PC Escritorio
+ec0a0b41,2024-03-14,18:35:46,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.170,Cronograma_Desarrollo.xlsx,Descarga,PC Escritorio
+a726da83,2024-03-13,16:35:53,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.40,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+929efea2,2024-03-27,17:40:38,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.52,Cronograma_Desarrollo.xlsx,Lectura,PC Escritorio
+10e21024,2024-03-03,14:54:07,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.201,Documentación_API.md,Copia,PC Escritorio
+48972b9e,2024-03-03,17:34:24,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.95,Documentación_API.md,Descarga,PC Escritorio
+cdb8dcd6,2024-03-09,14:29:16,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.215,Cronograma_Desarrollo.xlsx,Eliminación,PC Escritorio
+0e361a96,2024-03-03,17:22:51,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.249,Manual_Usuario.pdf,Modificación,PC Escritorio
+5d82b9b0,2024-03-27,15:26:34,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.147,Presupuesto_Proyecto.xlsx,Copia,PC Escritorio
+65df4d77,2024-03-29,20:45:02,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.31,Diseño_Interfaz.sketch,Modificación,Laptop Empresa
+ca3fb0ba,2024-03-07,19:12:08,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.109,Especificaciones_Técnicas.docx,Creación,PC Escritorio
+3aec1c86,2024-03-27,16:16:20,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.23,Documentación_API.md,Eliminación,PC Escritorio
+1fa57e06,2024-03-28,11:33:29,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.202,Manual_Usuario.pdf,Eliminación,PC Escritorio
+9b11c41f,2024-03-04,13:09:09,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.237,Especificaciones_Técnicas.docx,Eliminación,Laptop Empresa
+b5fa284e,2024-03-28,15:56:22,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.68,Documentación_API.md,Creación,PC Escritorio
+f17793d4,2024-03-16,07:11:17,1010,Daniel Moreno,Analista de Seguridad,TI,Central,10.0.1.37,Manual_Usuario.pdf,Eliminación,PC Escritorio
+77cbe61d,2024-03-02,13:56:56,1007,Elena Díaz,Directora de Innovación,Innovación,Central,10.0.1.177,Presupuesto_Proyecto.xlsx,Lectura,Laptop Empresa
+019df4b0,2024-03-29,12:01:21,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.80,Cronograma_Desarrollo.xlsx,Visualización,PC Escritorio
+a3d591ac,2024-03-28,10:08:19,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.199,Reporte_Pruebas.pdf,Descarga,Laptop Empresa
+c56174ca,2024-03-21,08:12:28,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.234,Documentación_API.md,Creación,PC Escritorio
+3c028bc3,2024-03-28,12:52:03,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.17,Cronograma_Desarrollo.xlsx,Creación,PC Escritorio
+ae230aa9,2024-03-25,20:33:56,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.45,Presupuesto_Proyecto.xlsx,Visualización,PC Escritorio
+11243a09,2024-03-08,07:29:03,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.181,Presupuesto_Proyecto.xlsx,Descarga,PC Escritorio
+f9a645fa,2024-03-17,13:40:59,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.175,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+b026759a,2024-03-06,20:30:37,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,10.0.3.89,Reporte_Pruebas.pdf,Visualización,Laptop Empresa
+9c878032,2024-03-10,07:24:03,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.219,Manual_Usuario.pdf,Visualización,Laptop Empresa
+46aa4bcf,2024-03-21,10:43:13,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.167,Documentación_API.md,Eliminación,PC Escritorio
+4694d5d6,2024-03-16,21:08:41,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.154,Reporte_Pruebas.pdf,Modificación,PC Escritorio
+529b63c2,2024-03-23,18:41:17,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.230,Documentación_API.md,Visualización,PC Escritorio
+fa895742,2024-03-07,14:19:43,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.150,Diseño_Interfaz.sketch,Lectura,Laptop Empresa
+97d53dde,2024-03-18,17:38:38,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.77,Especificaciones_Técnicas.docx,Copia,PC Escritorio
+dce470b2,2024-03-21,12:55:17,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.168,Cronograma_Desarrollo.xlsx,Modificación,PC Escritorio
+af9b9a4d,2024-03-29,07:51:54,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.170,Reporte_Pruebas.pdf,Creación,PC Escritorio
+3f1865a2,2024-03-21,14:18:16,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.104,Documentación_API.md,Creación,PC Escritorio
+2746aac6,2024-03-27,10:21:46,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.176,Lista_Proveedores.xlsx,Creación,Laptop Empresa
+86d57c5e,2024-03-17,11:54:10,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.76,Especificaciones_Técnicas.docx,Copia,PC Escritorio
+e54320b1,2024-03-24,19:35:48,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.243,Reporte_Pruebas.pdf,Creación,PC Escritorio
+2182c943,2024-03-08,18:55:19,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.202,Reporte_Pruebas.pdf,Descarga,PC Escritorio
+dac7ec6f,2024-03-15,20:07:30,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.222,Manual_Usuario.pdf,Eliminación,Laptop Empresa
+d53ad831,2024-03-16,21:12:32,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,192.168.1.223,Documentación_API.md,Eliminación,PC Escritorio
+e0a6f063,2024-03-28,20:09:08,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.88,Documentación_API.md,Eliminación,Laptop Empresa
+ef02fa61,2024-03-05,12:55:45,1008,Pablo Ruiz,Desarrollador Backend,TI,Sur,192.168.3.200,Reporte_Pruebas.pdf,Copia,PC Escritorio
+54c9477b,2024-03-11,17:03:00,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.71,Presupuesto_Proyecto.xlsx,Visualización,Laptop Empresa
+a5db384a,2024-03-25,09:31:50,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.34,Manual_Usuario.pdf,Copia,PC Escritorio
+f07cb7ee,2024-03-14,14:24:00,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.137,Presupuesto_Proyecto.xlsx,Creación,PC Escritorio
+ac7cff61,2024-03-29,12:48:53,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.5,Lista_Proveedores.xlsx,Creación,PC Escritorio
+9c17d33c,2024-03-10,09:06:24,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.43,Especificaciones_Técnicas.docx,Visualización,PC Escritorio
+d34d5727,2024-03-15,18:33:38,1005,Lucía Fernández,Científica de Datos,Investigación,Central,10.0.1.112,Documentación_API.md,Descarga,PC Escritorio
+9d0e7769,2024-03-06,21:58:51,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,10.0.4.5,Presupuesto_Proyecto.xlsx,Modificación,Laptop Empresa
+9605328d,2024-03-07,18:01:37,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.32,Reporte_Pruebas.pdf,Creación,PC Escritorio
+217df647,2024-03-13,21:40:16,1001,Ana Martínez,Analista de Datos,TI,Central,192.168.1.153,Presupuesto_Proyecto.xlsx,Creación,PC Escritorio
+9c1ed0f9,2024-03-02,18:07:26,1001,Ana Martínez,Analista de Datos,TI,Central,10.0.1.98,Reporte_Pruebas.pdf,Eliminación,PC Escritorio
+dc707c03,2024-03-07,18:43:40,1003,Carmen López,Directora de Proyectos,Innovación,Norte,192.168.2.78,Documentación_API.md,Creación,PC Escritorio
+b943ca37,2024-03-09,16:38:44,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,192.168.1.108,Especificaciones_Técnicas.docx,Eliminación,Laptop Empresa
+20b48e2d,2024-03-10,08:50:06,1002,Roberto Sánchez,Desarrollador Senior,TI,Central,10.0.1.51,Manual_Usuario.pdf,Modificación,Laptop Empresa
+e65414d8,2024-03-07,12:45:26,1009,Sofía Navarro,Ingeniera de Seguridad,TI,Central,10.0.1.42,Plano_Dispositivo_X23.pdf,Eliminación,PC Escritorio
+a003c793,2024-03-23,21:30:21,1004,Javier Rodríguez,Ingeniero de Software,TI,Este,192.168.4.1,Presupuesto_Proyecto.xlsx,Creación,Laptop Empresa
+7c14e649,2024-03-22,14:09:05,1010,Daniel Moreno,Analista de Seguridad,TI,Central,192.168.1.186,Lista_Proveedores.xlsx,Descarga,PC Escritorio
+531bc9df,2024-03-09,14:03:06,1005,Lucía Fernández,Científica de Datos,Investigación,Central,192.168.1.224,Reporte_Pruebas.pdf,Visualización,PC Escritorio
+8fbc4776,2024-03-14,18:07:06,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,192.168.5.3,Código_Fuente_Prototipo.zip,Creación,PC Escritorio
+7fc00b76,2024-03-12,21:28:39,1006,Miguel Torres,Arquitecto de Sistemas,TI,Oeste,10.0.5.225,Especificaciones_Técnicas.docx,Descarga,Laptop Empresa
+fb17f4d3,2024-03-04,13:25:29,1003,Carmen López,Directora de Proyectos,Innovación,Norte,10.0.2.214,Documentación_API.md,Creación,Laptop Empresa
+fc0b836d,2024-03-21,21:51:10,1007,Elena Díaz,Directora de Innovación,Innovación,Central,192.168.1.34,Plano_Dispositivo_X23.pdf,Visualización,PC Escritorio
